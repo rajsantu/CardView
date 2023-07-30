@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="game_title">Game title</string>
+    <string name="image">Image</string>
+</resources>
